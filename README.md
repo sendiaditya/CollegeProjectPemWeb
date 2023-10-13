@@ -1,5 +1,5 @@
 # CollegeProjectPemWeb
 
 **Requirements** 
--xampp
--php
+- xampp
+- php
